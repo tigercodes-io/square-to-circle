@@ -1,3 +1,3 @@
-# Animação CSS Efeito Arco-Íris 
+# Animação CSS Square to Circle
 
-Como fazer um efeito de arco-íris 🌈 com animações no CSS. Poucas linhas de código, mas um resultado muito legal 🔥. O código fonte desta animação também está disponível no meu [CodePen](https://codepen.io/tigercodes/pen/VwmOxgy).
+Animação de quadrado para círculo com CSS. O código fonte desta animação também está disponível no meu [CodePen](https://codepen.io/tigercodes/pen/gOLqRPo).
